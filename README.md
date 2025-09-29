@@ -11,22 +11,34 @@
       <img src="https://github.com/rezahashemics.png" alt="Reza Hashemi" width="150" style="border-radius:50%;" />
       <p style="margin:0; color:#374151;">Embedded systems enthusiast • Linux, C, Python • Electronics & bare-metal hacking</p>
     </div>
+    <!-- Instagram link -->
+  <p style="margin-top:8px;">
+    <a href="https://www.instagram.com/redhahashemi_junior/" target="_blank" style="text-decoration:none; display:inline-flex; align-items:center; gap:6px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" />
+    </a>
+  </p>
   </div>
 
   <hr style="margin:16px 0; border:0; border-top:1px solid #e6e9ee;">
 
   <!-- Skills -->
-  <section>
-    <h2 style="margin:0 0 8px 0; font-size:18px;">🛠 Skills</h2>
-    <div style="display:flex; gap:10px; flex-wrap:wrap;">
-      <span style="padding:8px 10px; border-radius:999px; background:#eef2ff; color:#3730a3; font-weight:600;">Linux</span>
-      <span style="padding:8px 10px; border-radius:999px; background:#f0fdf4; color:#166534; font-weight:600;">C</span>
-      <span style="padding:8px 10px; border-radius:999px; background:#f0f9ff; color:#0369a1; font-weight:600;">Python</span>
-      <span style="padding:8px 10px; border-radius:999px; background:#fff7ed; color:#92400e; font-weight:600;">Electronics</span>
-      <span style="padding:8px 10px; border-radius:999px; background:#f8fafc; color:#0f172a; font-weight:600;">Embedded Systems</span>
-      <span style="padding:8px 10px; border-radius:999px; background:#fff1f2; color:#9f1239; font-weight:600;">Bare-metal</span>
-    </div>
-  </section>
+  <!-- Skills -->
+<!-- Skills -->
+<section>
+  <h2 style="margin:0 0 8px 0; font-size:18px;">🛠 Skills</h2>
+  <div style="display:flex; gap:15px; flex-wrap:wrap; align-items:center;">    
+    <!-- Linux -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="50" height="50" />
+    <!-- C -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="50" height="50" />
+    <!-- Python -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50" />
+    <!-- Embedded Systems (Arduino logo) -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Embedded Systems" width="70" height="50" />
+  </div>
+</section>
+
+
 
   <hr style="margin:16px 0; border:0; border-top:1px solid #e6e9ee;">
 
@@ -51,7 +63,7 @@
     <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(250px, 1fr)); gap:20px;">
       <!-- Project Card 1 -->
       <a href="#" style="text-decoration:none; color:inherit; border:1px solid #e6e9ee; border-radius:12px; overflow:hidden; display:block; transition:transform 0.2s ease;">
-        <img src="https://via.placeholder.com/400x200.png?text=Project+1" alt="Project 1" style="width:100%; display:block;">
+        <img src="https://commons.wikimedia.org/wiki/File:Antu_yast-bootloader.svg" alt="Project 1" style="width:100%; display:block;"/>
         <div style="padding:12px;">
           <h3 style="margin:0 0 6px 0; font-size:16px;">Tiny OS Bootloader</h3>
           <p style="margin:0; font-size:14px; color:#6b7280;">A bare-metal experiment to boot and print hello from scratch.</p>
@@ -59,7 +71,7 @@
       </a>
       <!-- Project Card 2 -->
       <a href="#" style="text-decoration:none; color:inherit; border:1px solid #e6e9ee; border-radius:12px; overflow:hidden; display:block; transition:transform 0.2s ease;">
-        <img src="https://via.placeholder.com/400x200.png?text=Project+2" alt="Project 2" style="width:100%; display:block;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Antu_yast-bootloader.svg" alt="Project 2" style="width:100%; display:block;">
         <div style="padding:12px;">
           <h3 style="margin:0 0 6px 0; font-size:16px;">MCU Firmware Skeleton</h3>
           <p style="margin:0; font-size:14px; color:#6b7280;">Minimal firmware base for ARM Cortex-M microcontrollers.</p>
@@ -86,20 +98,32 @@
       <p style="margin:0; color:#374151;">Prefer email for collaboration or project ideas.</p>
     </div>
     <a href="mailto:rezahashemipersonalemail@gmail.com" style="display:inline-flex; align-items:center; gap:8px; text-decoration:none; padding:8px 12px; border-radius:10px; border:1px solid #e6e9ee;">
-      <!-- Simple envelope SVG -->
-      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" xmlns="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg" aria-hidden="true">
-        <path d="M3 6.75A2.75 2.75 0 0 1 5.75 4h12.5A2.75 2.75 0 0 1 21 6.75v10.5A2.75 2.75 0 0 1 18.25 20H5.75A2.75 2.75 0 0 1 3 17.25V6.75z" stroke="#0b1220" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
-        <path d="M21 6.75l-9 6-9-6" stroke="#0b1220" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
-      </svg>
-      <span style="color:#0b1220; font-weight:600;">rezahashemipersonalemail@gmail.com</span>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail Logo" width="34" height="34" />
     </a>
+
   </section>
 
   <hr style="margin:16px 0 10px 0; border:0; border-top:1px solid #e6e9ee;">
+  <!-- GitHub Stats -->
+<section>
+  <h2 style="margin:0 0 12px 0; font-size:20px;">📊 GitHub Stats</h2>
+  <p style="margin:0 0 18px 0; color:#6b7280;">My GitHub activity and stats.</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rezahashemics&theme=default&show_icons=true&hide_border=true&count_private=true" 
+       alt="rezahashemics's GitHub Stats" />
+</section>
+
 
   <!-- Footer -->
   <div style="display:flex; justify-content:space-between; align-items:center; gap:12px;">
     <small style="color:#6b7280;">Available for embedded/firmware projects and collabs</small>
     <div style="font-size:12px; color:#94a3b8;">Last updated: Sep 29, 2025</div>
   </div>
+  <!-- Top Repositories -->
+<section>
+  <h2 style="margin:0 0 12px 0; font-size:20px;">📂 Top Repositories</h2>
+  <p style="margin:0 0 18px 0; color:#6b7280;">My most active repositories.</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezahashemics&layout=compact&hide_border=true&langs_count=8&theme=default" 
+       alt="rezahashemics Top Languages" />
+</section>
+
 </div>
