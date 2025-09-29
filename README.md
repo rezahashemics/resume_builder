@@ -8,7 +8,7 @@
     </div>
     <div>
       <h1 style="margin:0 0 6px 0;">Hi — I'm Reza Hashemi</h1>
-      <img src="https://github.com/<your-username>.png" alt="Reza Hashemi" width="150" style="border-radius:50%;" />
+      <img src="https://github.com/rezahashemics.png" alt="Reza Hashemi" width="150" style="border-radius:50%;" />
       <p style="margin:0; color:#374151;">Embedded systems enthusiast • Linux, C, Python • Electronics & bare-metal hacking</p>
     </div>
   </div>
