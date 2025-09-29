@@ -48,9 +48,7 @@
   <section>
     <h2 style="margin:0 0 12px 0; font-size:20px;">🚧 Projects Basement</h2>
     <p style="margin:0 0 18px 0; color:#6b7280;">Some experimental and work-in-progress ideas I’m building foundations for.</p>
-
     <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(250px, 1fr)); gap:20px;">
-
       <!-- Project Card 1 -->
       <a href="#" style="text-decoration:none; color:inherit; border:1px solid #e6e9ee; border-radius:12px; overflow:hidden; display:block; transition:transform 0.2s ease;">
         <img src="https://via.placeholder.com/400x200.png?text=Project+1" alt="Project 1" style="width:100%; display:block;">
@@ -59,7 +57,6 @@
           <p style="margin:0; font-size:14px; color:#6b7280;">A bare-metal experiment to boot and print hello from scratch.</p>
         </div>
       </a>
-
       <!-- Project Card 2 -->
       <a href="#" style="text-decoration:none; color:inherit; border:1px solid #e6e9ee; border-radius:12px; overflow:hidden; display:block; transition:transform 0.2s ease;">
         <img src="https://via.placeholder.com/400x200.png?text=Project+2" alt="Project 2" style="width:100%; display:block;">
@@ -68,7 +65,6 @@
           <p style="margin:0; font-size:14px; color:#6b7280;">Minimal firmware base for ARM Cortex-M microcontrollers.</p>
         </div>
       </a>
-
       <!-- Project Card 3 -->
       <a href="#" style="text-decoration:none; color:inherit; border:1px solid #e6e9ee; border-radius:12px; overflow:hidden; display:block; transition:transform 0.2s ease;">
         <img src="https://via.placeholder.com/400x200.png?text=Project+3" alt="Project 3" style="width:100%; display:block;">
@@ -89,11 +85,9 @@
       <h2 style="margin:0 0 6px 0; font-size:18px;">📬 Contact</h2>
       <p style="margin:0; color:#374151;">Prefer email for collaboration or project ideas.</p>
     </div>
-
-    <!-- Gmail icon button (mailto) -->
     <a href="mailto:rezahashemipersonalemail@gmail.com" style="display:inline-flex; align-items:center; gap:8px; text-decoration:none; padding:8px 12px; border-radius:10px; border:1px solid #e6e9ee;">
       <!-- Simple envelope SVG -->
-      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" xmlns="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg" aria-hidden="true">
         <path d="M3 6.75A2.75 2.75 0 0 1 5.75 4h12.5A2.75 2.75 0 0 1 21 6.75v10.5A2.75 2.75 0 0 1 18.25 20H5.75A2.75 2.75 0 0 1 3 17.25V6.75z" stroke="#0b1220" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
         <path d="M21 6.75l-9 6-9-6" stroke="#0b1220" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
       </svg>
